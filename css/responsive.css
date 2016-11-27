@@ -45,7 +45,11 @@
     float: left;
     margin: 0 5% 80px 0;
   }
-  
+
+
+  #gallery li {
+  min-height: 100px;
+}
   
 }
 
@@ -82,8 +86,17 @@ NAV
   }
   
   header {
-    border-bottom: 5px solid #599a68;
+    border-bottom: 5px solid #CDCDCD;
     margin-bottom: 60px;
   }
+
+  #gallery li img {
+    padding-top: 3%;
+  }
+
+  #gallery li a p {
+    padding: 3%;
+  }
+
   
 }

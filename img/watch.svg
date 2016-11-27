@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 44.896 64.17" style="enable-background:new 0 0 44.896 64.17;" xml:space="preserve">
+<g id="watch">
+	<g>
+		<g>
+			<g>
+				<path style="fill:#937B6A;" d="M29.426,64.17h-14.9c-1.105,0-2-0.895-2-2V5c0-1.105,0.895-2,2-2h14.9c1.105,0,2,0.895,2,2v57.17
+					C31.426,63.274,30.531,64.17,29.426,64.17z"/>
+			</g>
+			<circle style="fill:#E8E1D4;" cx="21.977" cy="33.577" r="19.977"/>
+			<path style="fill:#8D9091;" d="M41.704,30.577C41.704,30.578,41.704,30.578,41.704,30.577c0.069,0.456,0.13,0.914,0.167,1.379
+				c0.05,0.534,0.082,1.074,0.082,1.621s-0.032,1.087-0.082,1.621c-0.037,0.465-0.099,0.922-0.167,1.378c0,0,0,0,0,0.001h3.191v-6
+				H41.704z"/>
+		</g>
+		<g>
+			
+				<line style="fill:none;stroke:#383C3D;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="31.426" y1="10.249" x2="31.426" y2="13.739"/>
+			
+				<line style="fill:none;stroke:#383C3D;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="10.527" y1="13.739" x2="10.527" y2="10.249"/>
+			
+				<line style="fill:none;stroke:#383C3D;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="31.426" y1="49.415" x2="31.426" y2="52.906"/>
+			
+				<line style="fill:none;stroke:#383C3D;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="10.527" y1="52.906" x2="10.527" y2="49.415"/>
+		</g>
+		<g>
+			<path style="fill:none;stroke:#383C3D;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" d="M30.426,13.977V3
+				c0-1.105-0.895-2-2-2h-14.9c-1.105,0-2,0.895-2,2v10.977"/>
+			<path style="fill:none;stroke:#383C3D;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" d="M11.527,49.178V60.17
+				c0,1.105,0.895,2,2,2h14.9c1.105,0,2-0.895,2-2V49.178"/>
+		</g>
+		
+			<circle style="fill:none;stroke:#383C3D;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" cx="20.977" cy="31.577" r="19.977"/>
+		
+			<line style="fill:none;stroke:#383C3D;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="20.977" y1="31.577" x2="12.853" y2="26.887"/>
+		
+			<line style="fill:none;stroke:#383C3D;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="20.977" y1="31.577" x2="33.576" y2="22.756"/>
+		
+			<line style="fill:none;stroke:#383C3D;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="20.977" y1="26.577" x2="20.977" y2="45.197"/>
+		<circle style="fill:#FFFFFF;stroke:#383C3D;stroke-miterlimit:10;" cx="20.977" cy="31.577" r="2"/>
+		<path style="fill:none;stroke:#383C3D;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" d="M40.704,34.577h3.191v-6
+			h-3.191"/>
+	</g>
+</g>
+<g id="Layer_1">
+</g>
+</svg>
